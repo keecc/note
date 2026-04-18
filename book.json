@@ -20,7 +20,7 @@
     ],
     "pluginsConfig": {
         "github": {
-            "url": "https://github.com/woodlai/note.git"
+            "url": "https://github.com/keecc/note.git"
         },
         "code": {
             "copyButtons": true
@@ -31,7 +31,7 @@
             "file": "Todo/Todo.md"
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright woodlai",
+            "copyright": "Copyright kee",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
